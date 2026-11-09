@@ -1,6 +1,3 @@
 # RentNear Backend
 
-Backend of the RentNear platform.
-
-Technology: Django REST Framework
-Database: PostgreSQL
+Django REST Framework API with PostgreSQL. Setup and run commands are in the repository README.

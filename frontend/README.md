@@ -1,5 +1,3 @@
 # RentNear Frontend
 
-Frontend of the RentNear platform.
-
-Technology: React
+React + Vite client. Setup and run commands are in the repository README.
